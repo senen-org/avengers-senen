@@ -2,3 +2,4 @@
 
 * Venom
 * Mandarin
+* Capitán America
